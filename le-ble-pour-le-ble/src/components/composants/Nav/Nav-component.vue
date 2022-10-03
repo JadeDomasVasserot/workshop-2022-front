@@ -1,10 +1,12 @@
 <template>
-<div id="Header"></div>
+<div id="Nav">
+
+</div>
 </template>
 
 <script>
 export default {
-  name: "Header.vue"
+  name: "Nav-component.vue"
 }
 </script>
 
