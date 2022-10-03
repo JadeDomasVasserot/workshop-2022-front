@@ -4,7 +4,11 @@
 </div>
 </template>
 
-<script lang="ts" src="./Calendrier.js"></script>
+<script>
+export default {
+  name: "Calendrier.vue"
+}
+</script>
 
 <style scoped>
 

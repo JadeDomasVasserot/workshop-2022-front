@@ -2,7 +2,11 @@
 
 </template>
 
-<script lang="ts" src="./Stock.js"></script>
+<script>
+export default {
+  name: "Stock.vue"
+}
+</script>
 
 <style scoped>
 

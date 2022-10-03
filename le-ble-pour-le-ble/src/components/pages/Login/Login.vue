@@ -2,7 +2,11 @@
 
 </template>
 
-<script lang="ts" src="./Login.js"></script>
+<script>
+export default {
+  name: "Login.vue"
+}
+</script>
 
 <style scoped>
 

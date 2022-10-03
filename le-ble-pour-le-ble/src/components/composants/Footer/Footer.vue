@@ -1,8 +1,12 @@
 <template>
-
+<div id="Footer"></div>
 </template>
 
-<script lang="ts" src="./Footer.js"></script>
+<script>
+export default {
+  name: "Footer.vue"
+}
+</script>
 
 <style scoped>
 

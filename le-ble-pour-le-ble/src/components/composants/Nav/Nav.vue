@@ -1,8 +1,14 @@
 <template>
+<div id="Nav">
 
+</div>
 </template>
 
-<script lang="ts" src="./Nav.js"></script>
+<script>
+export default {
+  name: "Nav.vue"
+}
+</script>
 
 <style scoped>
 

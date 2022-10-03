@@ -4,7 +4,11 @@
 </div>
 </template>
 
-<script lang="ts" src="./Accueil.js"></script>
+<script>
+export default {
+  name: "Accueil.vue"
+}
+</script>
 
 <style scoped>
 

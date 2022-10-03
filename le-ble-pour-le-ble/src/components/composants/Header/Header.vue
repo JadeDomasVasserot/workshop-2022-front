@@ -1,8 +1,12 @@
 <template>
-
+<div id="Header"></div>
 </template>
 
-<script lang="ts" src="./Header.js"></script>
+<script>
+export default {
+  name: "Header.vue"
+}
+</script>
 
 <style scoped>
 
