@@ -1,12 +1,10 @@
 <template>
-<div id="Nav">
-
-</div>
+<div class="Stock"></div>
 </template>
 
 <script>
 export default {
-  name: "Nav-component.vue"
+  name: "StockApp"
 }
 </script>
 

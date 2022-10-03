@@ -1,15 +1,14 @@
 <template>
-<div id="Calendrier">
+<div class="Accueil">
 
 </div>
 </template>
 
 <script>
 export default {
-  name: "Calendrier.vue"
+  name: "AccueilApp"
 }
 </script>
-
 <style scoped>
 
 </style>

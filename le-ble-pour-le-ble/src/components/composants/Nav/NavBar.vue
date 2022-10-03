@@ -1,10 +1,12 @@
 <template>
+<div class="NavBar">
 
+</div>
 </template>
 
 <script>
 export default {
-  name: "Stock.vue"
+  name: "NavBar"
 }
 </script>
 

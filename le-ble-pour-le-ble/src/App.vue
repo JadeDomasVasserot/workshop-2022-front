@@ -1,20 +1,20 @@
 <template>
- <div id="App">
-   <Header></Header>
-   <Nav></Nav>
+ <div id="app">
+   <HeaderMain></HeaderMain>
+   <NavBar></NavBar>
    <router-view></router-view>
-   <Footer></Footer>
+   <FooterMain></FooterMain>
  </div>
 </template>
 
 <script>
-import Header from "@/components/composants/Header/Header-component.vue";
-import Nav from "@/components/composants/Nav/Nav-component.vue";
-import Footer from "@/components/composants/Footer/Footer-component.vue";
+import NavBar from "@/components/composants/Nav/NavBar.vue";
+import FooterMain from "@/components/composants/Footer/FooterMain.vue";
+import HeaderMain from "@/components/composants/Header/HeaderMain";
 
 export default{
   name: 'App',
-  components: {Header, Nav, Footer}
+  components: {FooterMain, HeaderMain, NavBar}
 }
 </script>
 

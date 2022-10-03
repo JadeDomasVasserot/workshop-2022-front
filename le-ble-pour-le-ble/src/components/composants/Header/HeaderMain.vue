@@ -1,5 +1,5 @@
 <template>
-<div id="Header">
+<div class="Header">
   <router-link to="/home">Accueil</router-link>
   <router-link to="/stock">Stock</router-link>
   <router-link to="/calendrier">Calendrier</router-link>
@@ -9,7 +9,15 @@
 
 <script>
 export default {
-  name: "Header-component.vue"
+  name: "HeaderMain",
+  data () {
+    return {
+
+    }
+  },
+  methods:{
+
+  }
 }
 </script>
 

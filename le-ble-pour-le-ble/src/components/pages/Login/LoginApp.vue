@@ -1,10 +1,10 @@
 <template>
-<div id="Footer"></div>
+<div class="Login"></div>
 </template>
 
 <script>
 export default {
-  name: "Footer-component.vue"
+  name: "LoginApp"
 }
 </script>
 
