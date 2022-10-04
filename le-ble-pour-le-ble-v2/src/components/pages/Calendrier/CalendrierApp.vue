@@ -10,7 +10,7 @@
   <div id="body">
     
   </div>
-</div>
+  </div>
 </template>
 
 <script>
