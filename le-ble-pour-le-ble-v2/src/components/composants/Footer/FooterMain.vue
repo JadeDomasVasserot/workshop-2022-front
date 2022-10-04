@@ -12,6 +12,6 @@ export default {
 
 <style scoped>
 #Footer{
-  background-color: blueviolet;
+  background-color: white;
 }
 </style>
