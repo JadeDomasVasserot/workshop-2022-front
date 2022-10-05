@@ -1,6 +1,5 @@
 <template>
 <div id="AccueilApp">
-<NavBar></NavBar>
 <HeaderMain></HeaderMain>
 <router-view></router-view>
 <FooterMain></FooterMain>
