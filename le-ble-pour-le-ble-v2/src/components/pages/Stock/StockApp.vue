@@ -1,10 +1,17 @@
 <template>
-<div id="StockApp"></div>
+<div id="StockApp">
+<NavBar></NavBar>
+<router-view></router-view>
+</div>
 </template>
-
+/div>
 <script>
+import NavBar from "../../composants/Nav/NavBar.vue"
 export default {
-  name: "StockApp"
+  name: "StockApp",
+  components:{
+    NavBar
+  }
 }
 </script>
 

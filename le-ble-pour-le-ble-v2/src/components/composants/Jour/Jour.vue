@@ -5,7 +5,6 @@
             <div class="w-100 height250 d-inline-block border-bottom border-dark"></div>
             <div class="w-100 height250 d-inline-block"></div>
         </div>
-        
     </div>
 </template>
       

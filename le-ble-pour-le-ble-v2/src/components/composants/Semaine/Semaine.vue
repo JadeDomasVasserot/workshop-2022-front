@@ -1,6 +1,6 @@
-<template>
-    
+<template> 
     <div id="semaine" class="d-flex justify-content-evenly align-items-stretch m-2">
+
         <Jour jour="Lundi" class="jour"></Jour>
         <Jour jour="Mardi" class="jour"></Jour>
         <Jour jour="Mercredi" class="jour"></Jour>
@@ -32,5 +32,4 @@ export default {
 </script>
       
 <style scoped>
-     
 </style>
